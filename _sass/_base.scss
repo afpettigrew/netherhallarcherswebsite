@@ -67,6 +67,13 @@ aside {
     padding: 0;
 }
 
+// Home Icon
+
+.home-icon{
+    height: 170%;
+    padding: 0;
+}
+
 // Navigation
 
 .navbar-default {
@@ -83,6 +90,11 @@ aside {
         &:focus {
             color: darken($theme-primary, 10%);
         }
+    }
+    .navbar-brand {
+      &img {
+        padding: 0%;
+      }
     }
     .nav {
         > li {
@@ -348,4 +360,3 @@ img::-moz-selection {
 body {
     -webkit-tap-highlight-color: $theme-dark;
 }
-
