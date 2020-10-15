@@ -78,6 +78,7 @@ aside {
 
 .navbar-default {
     background-color: white;
+    color: $theme-dark;
     border-color: rgba($theme-dark, .5);
     @include sans-serif-font;
     @include transition-all;
@@ -91,16 +92,10 @@ aside {
             color: darken($theme-primary, 10%);
         }
     }
-    .navbar-brand {
-      &img {
-        padding: 0%;
-      }
-    }
     .nav {
         > li {
             > a,
             > a:focus {
-                text-transform: uppercase;
                 font-weight: 700;
                 font-size: 13px;
                 color: $theme-dark;
@@ -121,20 +116,17 @@ aside {
         }
     }
     @media (min-width: 768px) {
-        background-color: transparent;
         border-color: rgba(white, .3);
         .navbar-header .navbar-brand {
-            color: rgba(white, .7);
             &:hover,
             &:focus {
-                color: white;
+                color: $theme-dark;
             }
         }
         .nav > li > a,
         .nav > li > a:focus {
-            color: rgba(white, .7);
             &:hover {
-                color: white;
+                color: lighten($theme-dark, 20%);
             }
         }
         &.affix {
