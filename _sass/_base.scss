@@ -73,12 +73,16 @@ aside {
   padding: 0;
   position: absolute;
   top: 2.5px;
-  left: 10px;
+  left: -30px;
 }
 // Navigation
 
 .navbar {
   min-height: 70px;
+}
+
+.navbar-brand{
+  position: relative;
 }
 
 .navbar-default {
@@ -89,14 +93,15 @@ aside {
   @include transition-all;
 
   .navbar-header .navbar-brand {
-    color: $theme-primary;
+    color: $button-colour;
     @include sans-serif-font;
     font-weight: 700;
     text-transform: uppercase;
+    left: 50px;
 
     &:focus,
     &:hover {
-      color: darken($theme-primary, 10%);
+      color: $button-colour;
     }
   }
 
@@ -108,7 +113,7 @@ aside {
       > a:focus,
       > a {
         font-weight: 700;
-        font-size: 13px;
+        font-size: 14px;
         color: $theme-dark;
 
         &:hover {
@@ -135,7 +140,7 @@ aside {
     .navbar-header .navbar-brand {
       &:focus,
       &:hover {
-        color: $theme-dark;
+        color: darken($button-colour,10%);
       }
     }
 
@@ -177,7 +182,7 @@ header {
   width: 100%;
   min-height: auto;
   @include background-cover;
-  background-position: center;
+  background-position: top;
   background-image: url("../img/header.jpg");
   text-align: center;
   color: white;
@@ -203,13 +208,14 @@ header {
       p {
         font-weight: 300;
         color: rgba(white, .7);
+//        background-color: rgba($theme-primary, .4);
         font-size: 16px;
         margin-bottom: 50px;
       }
     }
   }
   @media (min-width: 768px) {
-    min-height: 100%;
+    min-height: 84%;
 
     .header-content {
       position: absolute;
