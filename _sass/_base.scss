@@ -134,8 +134,8 @@ aside {
       }
     }
   }
+  border-color: rgba($theme-dark, .7);
   @media (min-width: 768px) {
-    border-color: rgba(white, .3);
 
     .navbar-header .navbar-brand {
       &:focus,
@@ -153,7 +153,6 @@ aside {
 
     &.affix {
       background-color: white;
-      border-color: rgba($theme-dark, .5);
 
       .navbar-header .navbar-brand {
         &:focus,
@@ -175,8 +174,6 @@ aside {
 }
 
 .nav-socials {
-//  position: absolute;
-//  left: 45%;
 margin-left: auto;
 margin-right: auto;
   li a {
