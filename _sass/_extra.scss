@@ -1,3 +1,4 @@
+// footer
 .social-media {
   color: $theme-light;
   font-size: 30px;
@@ -48,5 +49,14 @@ footer {
       float: right;
     }
     @include sans-serif-font;
+  }
+}
+
+// about us
+.committee{
+
+  li {
+    list-style-type: none;
+    padding-top: 7px;
   }
 }
