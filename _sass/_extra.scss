@@ -74,8 +74,19 @@ footer {
     width: 50%;
   }
 }
+.alternate-colour {
+  background-color: $theme-light;
+}
 
 //call-to-action-heading
 .call-to-action-heading{
   color: white;
+}
+
+//whats-going-on
+a {
+  color: $link-colour;
+  :hover {
+    color: $theme-primary;
+  }
 }
