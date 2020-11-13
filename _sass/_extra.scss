@@ -92,11 +92,19 @@ a {
 }
 
 article {
-  padding-top: 12;
-  padding-bottom: 12;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
+//COVID
+
 .COVID {
-  background-color: B86B00;
+  background-color: $dark-button;
   color: white;
+}
+
+
+//Sections
+.page {
+  padding-top:70px;
 }
