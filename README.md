@@ -6,7 +6,7 @@ This repository contains the source code for the Netherhall Archers club website
 
 ### Ask the website maintainer
 
-Adam Pettigrew is currently the person mainly responsiblel for maintaining the website. If you have changes that need making and you don't want to do it yourself, send him an email asking for the changes you want. Please be clear and include all details that will be needed!
+Adam Pettigrew is currently the person mainly responsible for maintaining the website. If you have changes that need making and you don't want to do it yourself, send him an email asking for the changes you want. Please be clear and include all details that will be needed!
 
 ### Do it yourself
 
@@ -38,7 +38,7 @@ If you're not a Committee member, you can fork the repo to your own account on G
 
 The repository structure can look intimidating but, in general, you should only need to worry about a few files.
 
-The code for the three main pages is in three files in the main directory: `index.html` (the main home page); `whats-going-on.html` (the "What's going on" page); and `about-us.html` (the "About us" page).
+The code for the three main pages is in four files in the main directory: `index.html` (the main home page); `whats-going-on.html` (the "What's going on" page); `getting-started.html` (the "Getting started" page); and `about-us.html` (the "About us" page).
 
 The Jekyll site contains lots of information about how pages work but there are a few key things to understand.
 
