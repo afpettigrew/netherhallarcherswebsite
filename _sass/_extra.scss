@@ -73,6 +73,12 @@ footer {
     width: 50%;
   }
 }
+
+.list-centre{
+  li {
+    list-style-type: none;
+  }
+}
 .alternate-colour {
   background-color: $theme-light;
 }
