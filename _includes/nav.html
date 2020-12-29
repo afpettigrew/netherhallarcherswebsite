@@ -8,10 +8,10 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="index.html">
+            <a class="navbar-brand page-scroll" href={% link index.html %}>
               Netherhall<br>
               Archers
-              <img class="home-icon" src="img/netherhall-logo-arrowhead-outline.svg" alt="Netherhall Archers' Logo" />
+              <img class="home-icon" src={% link img/netherhall-logo-arrowhead-outline.svg %} alt="Netherhall Archers' Logo" />
             </a>
         </div>
 
@@ -19,10 +19,10 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a class="page-scroll" href="whats-going-on.html">What's going on?</a>
+                    <a href={% link whats-going-on.html %}>What's going on?</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="getting-started.html">Getting started</a>
+                    <a href={% link getting-started.html %}>Getting started</a>
                 </li>
                 <!-- <li>
                     <a class="page-scroll" href="records.html>Records</a>
@@ -34,7 +34,7 @@
                     <a href="#">Gallery</a>
                 </li> -->
                 <li>
-                    <a href="about-us.html">About us</a>
+                    <a href={% link about-us.html %}>About us</a>
                 </li>
             </ul>
         </div>
