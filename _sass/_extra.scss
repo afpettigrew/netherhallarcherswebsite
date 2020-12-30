@@ -115,6 +115,27 @@ article {
 }
 
 //forms
-.actions {
-  list-style: none;
+.button-list {
+  li{
+    list-style: none;
+  }
+}
+
+//locations
+.indoor {
+  @media (min-width: 768px) {
+    float: right;
+  }
+}
+
+.outdoor{
+  @media (min-width: 768px) {
+    float: left;
+  }
+}
+
+.locations{
+  img{
+    padding-bottom: 10px;
+  }
 }

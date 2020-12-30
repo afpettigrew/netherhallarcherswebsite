@@ -5,32 +5,43 @@ layout: page
 <h1 class="section-heading">Contact Us</h1>
 <p>Either email us here: <a href="mailto:{{site.email}}">{{site.email}}</a></p>
 <p>or fill out this form:</p>
-<form>
-  <div class="field half first">
-    <label for="name">Name</label>
-    <input type="text" name="name" id="name" />
-  </div>
-  <div class="field half">
-    <label for="email">Email</label>
-    <input type="text" name="_replyto" id="email" />
-  </div>
-  <div class="field">
-    <label for="message">Message</label>
-    <textarea name="message" id="message" rows="6"></textarea>
-  </div>
-  <ul class="actions">
-    <li><input type="submit" value="Send Message" class="special" /></li>
-    <li><input type="reset" value="Clear" /></li>
-  </ul>
-</form>
-<div class="col-lg-5 col-md-12">
-  <p>In the Winter we shoot indoors here</p>
-  <img src={% link /img/SummerGoogleMaps.PNG %} alt="Google maps screenshot of Queen Edith's Way, Cambridge CB1 8NN">
+<div class="col-0 col-lg-3">
+
 </div>
-<div class="col-lg-2 col-md-0">
-  
+<div class="container-fluid col-12 col-lg-6">
+  <form>
+    <div class="form-group">
+      <label for="name">Name</label>
+      <input class="form-control" type="text" name="name" id="name" />
+    </div>
+    <div class="form-group">
+      <label for="email">Email</label>
+      <input class="form-control" type="email" name="_replyto" id="email" />
+    </div>
+    <div class="form-group">
+      <label for="message">Message</label>
+      <textarea class="form-control" name="message" id="message" rows="6"></textarea>
+    </div>
+    <ul class="button-list">
+      <li><button type="reset" class="btn btn-primary">Clear</button></li>
+      <li>&nbsp;</li>
+      <li><button type="submit" class="btn btn-secondary">Send Message</button></li>
+    </ul>
+  </form>
 </div>
-<div class="col-lg-5 col-md-12">
-  <p>In the Summer we shoot outdoors here</p>
-  <img src={% link /img/SummerGoogleMaps.PNG %} alt="Google maps screenshot of 20 Sedley Taylor Rd, Cambridge CB2 8PW">
+<div class="col-0 col-lg-3">
+
+</div>
+<div class="locations">
+  <div class="col-12 col-lg-5 clearfix">
+    <p>In the Winter we shoot indoors here</p>
+    <img class="indoor"  height="300px" width="540px" src={% link /img/WinterGoogleMaps.png %} alt="Google maps screenshot of Queen Edith's Way, Cambridge CB1 8NN">
+  </div>
+  <div class="col-0 col-lg-2">
+
+  </div>
+  <div class="col-12 col-lg-5 clearfix">
+    <p>In the Summer we shoot outdoors here</p>
+    <img class="outdoor" height="300px" width="540px" src={% link /img/SummerGoogleMaps.png %} alt="Google maps screenshot of 20 Sedley Taylor Rd, Cambridge CB2 8PW">
+  </div>
 </div>
