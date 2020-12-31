@@ -9,12 +9,8 @@ layout: page-alternate
       <h1 class="section-heading">Newsletters</h1>
       <hr>
       <p>[<strong>EMMA</strong> TO SUPPLY some text about the Newsletters - how often they are sent out]</p>
-      <ul>
-        <li>Most recent newsletter</li>
-        <li>Another newsletter</li>
-        <li>An older newsletter</li>
-      </ul>
-      <p><i><a href={% link AllNewsletters.html %}>Want to see all previous Newsletters?</a></i></p>
+      {% include newsletterlist.html %}
+      <p><i><a class="btn btn-primary" href={% link AllNewsletters.html %}>Want to see all previous Newsletters?</a></i></p>
     </div>
   </article>
   <article class="alternate-colour">

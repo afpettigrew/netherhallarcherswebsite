@@ -144,3 +144,10 @@ article {
 .top-padding {
   padding-top: 30px;
 }
+
+//lists
+.nobullets {
+  li{
+    list-style: none;
+  }
+}
