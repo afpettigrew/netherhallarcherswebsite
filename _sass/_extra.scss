@@ -123,13 +123,13 @@ article {
 
 //locations
 .indoor {
-  @media (min-width: 768px) {
+  @media (min-width: 1200px) {
     float: right;
   }
 }
 
 .outdoor{
-  @media (min-width: 768px) {
+  @media (min-width: 1200px) {
     float: left;
   }
 }
