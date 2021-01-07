@@ -53,7 +53,8 @@ footer {
 }
 
 // about us
-.committee{
+ul.committee{
+  padding-left: 0px;
   li {
     list-style-type: none;
     padding-top: 7px;
@@ -152,8 +153,8 @@ article {
   }
 }
 
-
-//Privacy Policy
-.indent {
-  
+//Links
+.covid-link {
+  color: white;
+  text-decoration: underline;
 }
