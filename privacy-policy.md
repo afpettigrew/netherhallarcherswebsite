@@ -1,11 +1,9 @@
 ---
 layout: page-formal
 ---
-<h1><b>Privacy Policy</b></h1>
+# **Privacy Policy**
 
-<h2><b>NETHERHALL ARCHERS PRIVACY NOTICE</b></h2>
-
-<br />
+## **NETHERHALL ARCHERS PRIVACY NOTICE**
 
 ### What this privacy notice covers
 
@@ -54,30 +52,30 @@ seek your consent to receive marketing via email about Club activities both inte
 
 We may use your information for a number of purposes including the following:
 
-1. compliance with legal, regulatory and corporate governance obligations and good practice;
-2. to provide you with information about our work or our activities that you have agreed to receive;
-3. club records, competition results, awards, achievements etc.;
-4. ensure we know how you prefer to be contacted;
-5. keep a record of your relationship with us.
+- compliance with legal, regulatory and corporate governance obligations and good practice;
+- to provide you with information about our work or our activities that you have agreed to receive;
+- club records, competition results, awards, achievements etc.;
+- ensure we know how you prefer to be contacted;
+- keep a record of your relationship with us.
 
 We will use the information we get from your use of our Website and services to:
 
-1. administer our Website and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes
-2. improve our Website to ensure that content is presented in the most effective manner for you and for your computer
-3. allow you to participate with interactive features of our service, when you choose to do so;
-4. as part of our efforts to keep our Website safe and secure;
-5. measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
-6. make suggestions and recommendations to you and other users of our Website about goods or services that may interest you or them; and
-7. any other reasonable purposes of Netherhall Archers, acting always in accordance with the data protection law (as amended from time to time).
+- administer our Website and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes
+- improve our Website to ensure that content is presented in the most effective manner for you and for your computer
+- allow you to participate with interactive features of our service, when you choose to do so;
+- as part of our efforts to keep our Website safe and secure;
+- measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+- make suggestions and recommendations to you and other users of our Website about goods or services that may interest you or them; and
+- any other reasonable purposes of Netherhall Archers, acting always in accordance with the data protection law (as amended from time to time).
 
 We will use information you give us to:
 
-1. perform services you have requested (such as providing you with Membership Benefits or providing you with information you have asked for);
-2. administer the sport of Archery, for instance by organising tournaments;
-3. provide you with information about other goods and services that we offer that are similar to those that you have already purchased or enquired about
-4. notify you about changes to our service, including but not limited to any changes to the Member Benefits;
-5. ensure that content from our Website is presented in the most effective manner for you and your computer; and
-6. any other reasonable purposes of Netherhall Archers, acting as always in accordance with the data protection law (as amended from time to time).
+- perform services you have requested (such as providing you with Membership Benefits or providing you with information you have asked for);
+- administer the sport of Archery, for instance by organising tournaments;
+- provide you with information about other goods and services that we offer that are similar to those that you have already purchased or enquired about
+- notify you about changes to our service, including but not limited to any changes to the Member Benefits;
+- ensure that content from our Website is presented in the most effective manner for you and your computer; and
+- any other reasonable purposes of Netherhall Archers, acting as always in accordance with the data protection law (as amended from time to time).
 
 ### Marketing
 
@@ -98,20 +96,21 @@ to help ensure that we do not continue to contact you.
 
 We may share your information with the following selected third parties:
 
-1. Associate bodies such as County, Region and Clubs in order that they may communicate
+- Associate bodies such as County, Region and Clubs in order that they may communicate
 with you regarding archery events only or to allow the associate bodies to manage the
 running of the sport in their areas
 
 We may disclose your personal information to third parties:
-1. In the event that we are taken over by a business to continue the running of the club sell
+
+- In the event that we are taken over by a business to continue the running of the club sell
 or buy any business or assets, in which case we may disclose your personal data to the
 prospective seller or buyer of such business or assets;
-2. If Netherhall Archers or substantially all of its assets are acquired by a third party, in
+- If Netherhall Archers or substantially all of its assets are acquired by a third party, in
 which case personal data held by it about individuals who have applied for Membership
 (whether successfully or unsuccessfully) will be one of the transferred assets;
-3. If we are under a duty to disclose or share your personal data in order to comply with any
+- If we are under a duty to disclose or share your personal data in order to comply with any
 legal obligation, or in order to enforce or apply other agreements; or
-4. to protect the rights, property, or safety of Netherhall Archers, Our Members, or others.
+- to protect the rights, property, or safety of Netherhall Archers, Our Members, or others.
 This includes exchanging information with other companies and organisations for the
 purposes of fraud protection and credit risk reduction. No data outside of EEA
 
@@ -164,11 +163,11 @@ confidential. We ask you not to share a password with anyone.
 
 You have the right to:
 
-1. Have any inaccuracies in your data corrected. If you would like to update the details we
+- have any inaccuracies in your data corrected. If you would like to update the details we
 hold about you other than online, please contact our membership secretary via email.
-2. Request that we delete your personal data.
-3. Request that we do not process your personal data for marketing purposes.
-4. You have a right to request a copy of the personal information we hold about you. We require you to prove your identity with two pieces of approved identification. Please address requests to the membership secretary and we will respond within one month, of receipt of your written request and confirmed ID. Please provide as much information as possible about the nature of your contact with us to help us locate your records. This request is free of charge unless the request is manifestly unfounded or excessive.
+- request that we delete your personal data.
+- request that we do not process your personal data for marketing purposes.
+- request a copy of the personal information we hold about you. We require you to prove your identity with two pieces of approved identification. Please address requests to the membership secretary and we will respond within one month, of receipt of your written request and confirmed ID. Please provide as much information as possible about the nature of your contact with us to help us locate your records. This request is free of charge unless the request is manifestly unfounded or excessive.
 
 ### Changes to this notice and the way we treat personal information
 
@@ -189,15 +188,11 @@ If you are unhappy with our work or something that we have done or failed to do,
 us in writing. Netherhall Archers will acknowledge receipt of all complaints and will endeavour to
 investigate the complaint within 15 working days
 
-All complaints should be sent to:
-
-membership@netherhall-archers.org
-
-<br />
+All complaints should be sent to the [Membership Secretary](mailto:membership@netherhall-archers.org)
 
 You may also complain directly to the Information Commissioner’s Office if you are concerned
 with how we are handling your personal information using their online form which can be found
-here: https://ico.org.uk/concerns/handling/
+[here](https://ico.org.uk/concerns/handling/)
 
 ### Changes to this Notice
 
