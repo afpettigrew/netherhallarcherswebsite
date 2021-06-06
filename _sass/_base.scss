@@ -204,8 +204,10 @@ header {
   width: 100%;
   min-height: auto;
   @include background-cover;
-  background-position: top;
-  background-image: url("../img/header_detail.jpg");
+  @media (min-width: 768px) {
+    background-position: 0px -25px;
+}
+  background-image: url("/img/2021-05-29-Outdoors.jpeg");
   text-align: center;
   color: white;
 
